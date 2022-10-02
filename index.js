@@ -1,5 +1,5 @@
 
-var colors = ["red","blue","yellow","green"];
+var colors = ["black","blue","yellow","green"];
 var level = 0;
 var colorArray = [];
 
